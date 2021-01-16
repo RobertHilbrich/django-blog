@@ -1,2 +1,4 @@
-GDAL==3.2.1
-numpy==1.19.5
+asgiref==3.3.1
+Django==3.0.11
+pytz==2020.5
+sqlparse==0.4.1
